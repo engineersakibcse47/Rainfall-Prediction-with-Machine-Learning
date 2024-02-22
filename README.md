@@ -8,10 +8,10 @@ I’ve always liked knowing the parameters meteorologists take into account befo
 
 I tried to cover bellows points- 
 
-How is balancing done for an unbalanced dataset
-How Label Coding Is Done for Categorical Variables
-How sophisticated imputation like MICE is used
-How outliers can be detected and excluded from the data
-How the filter method and wrapper methods are used for feature selection
-How to compare speed and performance for different popular models
-Which metric can be the best to judge the performance on an unbalanced data set: precision and F1 score.
+- How is balancing done for an unbalanced dataset
+- How Label Coding Is Done for Categorical Variables
+- How sophisticated imputation like MICE is used
+- How outliers can be detected and excluded from the data
+- How the filter method and wrapper methods are used for feature selection
+- How to compare speed and performance for different popular models
+- Which metric can be the best to judge the performance on an unbalanced data set: precision and F1 score.
